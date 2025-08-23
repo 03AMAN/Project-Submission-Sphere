@@ -11,7 +11,7 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'
 
 # Replace with your MySQL details
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:AMANSequel0307aman@localhost/college_erp'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:your_mysqlqorkbench_password@localhost/database_name'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
