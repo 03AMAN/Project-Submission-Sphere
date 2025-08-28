@@ -1,4 +1,3 @@
-<img width="1890" height="907" alt="image" src="https://github.com/user-attachments/assets/4baffe7c-d7e3-4d2a-9f0f-2968b519c14d" /># Project-Submission-Sphere
 ProjectSphere 🚀
 
 ACEM ProjectSphere is a secure, all-in-one project submission and mentoring platform designed for colleges. It allows students to upload their project work (source code, reports, PPTs, videos, synopsis) and enables mentors and admins to efficiently manage, review, and track submissions — all with built-in chat support.
